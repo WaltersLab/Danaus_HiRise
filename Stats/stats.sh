@@ -18,10 +18,10 @@ Dapl_Zhan_v3_HiC
 248703116
 
 # Chromosome size proportion to genome
-#Dapl_10x_Zhan_QM_Pilon_HiC
+Dapl_10x_Zhan_QM_Pilon_HiC
 echo "255869413/263826693" | bc -l
 .96983898820275930153
-#Dapl_Zhan_v3_HiC
+Dapl_Zhan_v3_HiC
 echo "245185305/248703116" | bc -l
 .98585538027597531186
 
