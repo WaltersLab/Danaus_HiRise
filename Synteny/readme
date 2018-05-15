@@ -1,3 +1,10 @@
 All mummerplots with Sl use Zhan version, which is the default verison used, unless otherwise noted (below):
 Dp_QM & ZhanQM - Zhan_10x version
 Sl - Spodptera litura
+
+Dapl.Sl.1.cf.dotplot.pdf	mummerplot Zhan version vs Spodoptera, colored sequence identity level
+Dapl.Sl.1.dotplot.pdf	mummertplot Zhan version vs Spodoptera
+ZhanQM.1.dotplot.pdf	mummerplots Zhan vs Zhan_10x
+circos.Px_Dp.png	Papilio xuthus vs Zhan version 
+circos.Sl_Dp.png	Spodoptera litura vs Zhan version
+circos.Sl_Dp_QM.png Spodoptera litura vs Zhan_10x version
